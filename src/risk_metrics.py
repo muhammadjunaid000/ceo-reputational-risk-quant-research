@@ -204,3 +204,4 @@ def compute_rolling_var_es(
         "parametric_var": rolling_param_var,
         "parametric_es": rolling_param_es
     }, index=clean_r.index)
+

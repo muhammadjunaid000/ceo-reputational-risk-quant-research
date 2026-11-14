@@ -18,3 +18,4 @@ dependencies:
   - pip:
       - yfinance>=0.2.35
       - arch>=6.2.0
+

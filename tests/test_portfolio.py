@@ -93,3 +93,4 @@ def test_performance_metrics_calculation(multi_asset_returns):
 
     assert np.isclose(metrics["annualized_return"], expected_ann_ret)
     assert np.isclose(metrics["annualized_volatility"], expected_ann_vol)
+

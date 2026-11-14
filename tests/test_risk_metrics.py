@@ -79,3 +79,4 @@ def test_rolling_var_es_shape(sample_returns):
     # First (window-1) values must be NaN
     assert rolling_df["historical_var"].iloc[:window - 1].isna().all()
     assert rolling_df["historical_var"].iloc[window:].notna().all()
+

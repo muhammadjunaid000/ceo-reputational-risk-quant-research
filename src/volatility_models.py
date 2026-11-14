@@ -114,3 +114,4 @@ def fit_garch_model(
         "summary": fit_res.summary().as_text(),
         "fit_result": fit_res
     }
+

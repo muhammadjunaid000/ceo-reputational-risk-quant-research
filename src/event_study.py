@@ -313,3 +313,4 @@ def generate_placebo_distribution(
             continue
 
     return np.asarray(placebo_cars)
+

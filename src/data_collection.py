@@ -160,3 +160,4 @@ def load_governance_data(
         raise ValueError("All governance scores must strictly fall within 0-100 range.")
 
     return gov
+

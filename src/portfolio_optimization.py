@@ -218,3 +218,4 @@ def generate_markowitz_efficient_frontier(
     }
 
     return sim_df, min_vol_metrics, max_sharpe_metrics
+

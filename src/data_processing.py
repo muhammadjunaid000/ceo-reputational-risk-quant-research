@@ -127,3 +127,4 @@ def generate_cross_asset_summary(
     }).sort_values("annualized_volatility", ascending=False)
 
     return summary
+

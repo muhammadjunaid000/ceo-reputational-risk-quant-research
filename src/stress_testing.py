@@ -184,3 +184,4 @@ def run_scenario_sensitivity_matrix(
                 "es_95": mc["es_95"]
             })
     return pd.DataFrame(records)
+

@@ -198,7 +198,7 @@ ceo-reputational-risk-quant-research/
 
 ### 1. Clone Repository & Setup Environment
 ```bash
-git clone https://github.com/MuhammadJunaid/ceo-reputational-risk-quant-research.git
+git clone https://github.com/muhammadjunaid000/ceo-reputational-risk-quant-research.git
 cd ceo-reputational-risk-quant-research
 
 # Option A: Conda
@@ -254,3 +254,4 @@ The repository includes 11 automated unit tests across 3 test modules verifying 
 ## 12. Disclaimer
 
 *This repository is created exclusively for quantitative research, financial econometrics education, and algorithmic modeling purposes. None of the materials, findings, or models contained herein constitute investment advice, financial recommendations, or an offer to buy or sell securities.*
+

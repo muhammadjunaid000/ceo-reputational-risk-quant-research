@@ -127,3 +127,4 @@ To evaluate catastrophic reputational risk scenarios, 30,000 Monte Carlo paths w
 - **High-Frequency Timestamping:** Transition from daily close data to intraday 1-minute order book and trades data.
 - **Implied Volatility Surfaces:** Integrate options-implied skew and variance risk premia around corporate disclosures.
 - **Cross-Sectional Panel Econometrics:** Expand from single-firm case studies to a multi-year panel of corporate governance events.
+

@@ -510,3 +510,4 @@ def plot_sentiment_distribution(
     ))
     _apply_standard_layout(fig, "FinBERT News Tone Sentiment Distribution (Benchmark Schema)", height=450)
     return fig
+
